@@ -7,8 +7,7 @@
 # macOS system files
 .DS_Store
 
-# Windows system files
-Thumbs.db
+
 
 # VS Code local settings
 .vscode/
